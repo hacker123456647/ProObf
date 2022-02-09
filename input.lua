@@ -1,0 +1,1 @@
+print('Lua Obfuscator by hacker123456647')
