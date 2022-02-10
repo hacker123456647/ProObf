@@ -5,5 +5,5 @@ This is closed source!
 -Lua 5.1 Installed (Only)
 # Feautures
 
---Custom bytecode ofrmat
---Very hard to constant-dump
+-Custom bytecode ofrmat
+-Very hard to constant-dump
